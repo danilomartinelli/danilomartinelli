@@ -1,1 +1,173 @@
-{"data":[{"id":"MDU6SXNzdWU2MDU0Nzg0NDk=","closed":false,"title":"Setting Up Workflow for the project","createdAt":"2020-04-23T12:06:14Z","url":"https://github.com/ashutosh1919/masterPortfolio/issues/2","number":2,"assignees":{"nodes":[{"avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","name":"Ashutosh Hathidara","url":"https://github.com/ashutosh1919"}]},"repository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"login":"ashutosh1919","avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919"}}},{"id":"MDU6SXNzdWU2MDI0NDg3NTY=","closed":false,"title":"In ModelCheckpoint, filepath is not accepting batch as formatting parameter.","createdAt":"2020-04-18T12:25:56Z","url":"https://github.com/tensorflow/tensorflow/issues/38668","number":38668,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/6505863?v=4","name":"Rick Chao","url":"https://github.com/rchao"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU2MDIzODIxNjI=","closed":false,"title":"save_freq is not accepting integer value in AverageModelCheckpoint","createdAt":"2020-04-18T05:19:27Z","url":"https://github.com/tensorflow/addons/issues/1701","number":1701,"assignees":{"nodes":[]},"repository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1OTg4NzQxMDI=","closed":true,"title":"Currently logs param is None for on_train_end() and on_test_end()","createdAt":"2020-04-13T12:56:17Z","url":"https://github.com/tensorflow/tensorflow/issues/38498","number":38498,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/51902062?v=4","name":null,"url":"https://github.com/ravikyram"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1OTgyNTg0MTQ=","closed":false,"title":"Need of flexible loss function GeneralLoss which can change behavior based on params","createdAt":"2020-04-11T12:41:54Z","url":"https://github.com/tensorflow/addons/issues/1646","number":1646,"assignees":{"nodes":[]},"repository":{"name":"addons","url":"https://github.com/tensorflow/addons","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1OTU1NjQyODc=","closed":false,"title":"Not able to customize social-cards","createdAt":"2020-04-07T03:29:37Z","url":"https://github.com/apollographql/gatsby-theme-apollo/issues/110","number":110,"assignees":{"nodes":[]},"repository":{"name":"gatsby-theme-apollo","url":"https://github.com/apollographql/gatsby-theme-apollo","owner":{"login":"apollographql","avatarUrl":"https://avatars0.githubusercontent.com/u/17189275?v=4","url":"https://github.com/apollographql"}}},{"id":"MDU6SXNzdWU1OTMyNjQ3NTg=","closed":true,"title":"Adding config to override prettier (if set) in any code editor","createdAt":"2020-04-03T09:59:05Z","url":"https://github.com/saadpasta/developerFolio/issues/77","number":77,"assignees":{"nodes":[{"avatarUrl":"https://avatars0.githubusercontent.com/u/48270786?u=dab5f6dc64923f646b354f47f52af65f44fd9e7e&v=4","name":"Kartik Choudhary","url":"https://github.com/kartik918"}]},"repository":{"name":"developerFolio","url":"https://github.com/saadpasta/developerFolio","owner":{"login":"saadpasta","avatarUrl":"https://avatars2.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4","url":"https://github.com/saadpasta"}}},{"id":"MDU6SXNzdWU1OTE2NjAzNTE=","closed":false,"title":"Add Animations to Pinned Projects ","createdAt":"2020-04-01T06:24:47Z","url":"https://github.com/ashutosh1919/masterPortfolio/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"masterPortfolio","url":"https://github.com/ashutosh1919/masterPortfolio","owner":{"login":"ashutosh1919","avatarUrl":"https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4","url":"https://github.com/ashutosh1919"}}},{"id":"MDU6SXNzdWU1OTAwMDczMDE=","closed":true,"title":"Improve the TFDS Getting Started Documentation","createdAt":"2020-03-30T05:37:01Z","url":"https://github.com/tensorflow/datasets/issues/1762","number":1762,"assignees":{"nodes":[]},"repository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1ODk1Nzk0NTc=","closed":true,"title":"BrowserRouter and HashRouter works for three Routes only","createdAt":"2020-03-28T13:40:27Z","url":"https://github.com/ReactTraining/react-router/issues/7223","number":7223,"assignees":{"nodes":[]},"repository":{"name":"react-router","url":"https://github.com/ReactTraining/react-router","owner":{"login":"ReactTraining","avatarUrl":"https://avatars1.githubusercontent.com/u/11823761?v=4","url":"https://github.com/ReactTraining"}}},{"id":"MDU6SXNzdWU1ODk1NzY4Nzg=","closed":true,"title":"BrowserRouter and HashRouter works for three Routes only ","createdAt":"2020-03-28T13:24:25Z","url":"https://github.com/facebook/react/issues/18414","number":18414,"assignees":{"nodes":[]},"repository":{"name":"react","url":"https://github.com/facebook/react","owner":{"login":"facebook","avatarUrl":"https://avatars3.githubusercontent.com/u/69631?v=4","url":"https://github.com/facebook"}}},{"id":"MDU6SXNzdWU1ODEwNjk1NjU=","closed":true,"title":"Required mean_absolute_relative_error (MARE) ","createdAt":"2020-03-14T06:39:28Z","url":"https://github.com/scikit-learn/scikit-learn/issues/16688","number":16688,"assignees":{"nodes":[]},"repository":{"name":"scikit-learn","url":"https://github.com/scikit-learn/scikit-learn","owner":{"login":"scikit-learn","avatarUrl":"https://avatars2.githubusercontent.com/u/365630?v=4","url":"https://github.com/scikit-learn"}}},{"id":"MDU6SXNzdWU1ODEwNDc0MDc=","closed":true,"title":"Example given in tf.image.rgb_to_yub is contadicting with the description.","createdAt":"2020-03-14T05:25:45Z","url":"https://github.com/tensorflow/tensorflow/issues/37591","number":37591,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/46058173?v=4","name":"Vishnuvardhan Janapati","url":"https://github.com/jvishnuvardhan"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1NzMyNTA1NjQ=","closed":false,"title":"ModuleNotFoundError: No module named 'tensorflow_datasets'","createdAt":"2020-02-29T08:28:06Z","url":"https://github.com/tensorflow/datasets/issues/1544","number":1544,"assignees":{"nodes":[]},"repository":{"name":"datasets","url":"https://github.com/tensorflow/datasets","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1Njk4OTI2MTE=","closed":true,"title":"There are no documentations related to decode_predictions() and preprocess_input() in any keras.applications","createdAt":"2020-02-24T14:28:33Z","url":"https://github.com/tensorflow/tensorflow/issues/37021","number":37021,"assignees":{"nodes":[{"avatarUrl":"https://avatars2.githubusercontent.com/u/46058173?v=4","name":"Vishnuvardhan Janapati","url":"https://github.com/jvishnuvardhan"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU1NTgwODYwMTM=","closed":true,"title":"Need for more flexible Loss Function","createdAt":"2020-01-31T11:50:06Z","url":"https://github.com/tensorflow/tensorflow/issues/36369","number":36369,"assignees":{"nodes":[{"avatarUrl":"https://avatars0.githubusercontent.com/u/13326758?u=af9430e7bc177fa3a1a256dd224b0765bd820bcf&v=4","name":"Pavithra Vijay","url":"https://github.com/pavithrasv"}]},"repository":{"name":"tensorflow","url":"https://github.com/tensorflow/tensorflow","owner":{"login":"tensorflow","avatarUrl":"https://avatars1.githubusercontent.com/u/15658638?v=4","url":"https://github.com/tensorflow"}}},{"id":"MDU6SXNzdWU0OTQ1NzMwMzc=","closed":true,"title":"I am not able to import Dataset","createdAt":"2019-09-17T11:46:15Z","url":"https://github.com/aerdem4/lofo-importance/issues/26","number":26,"assignees":{"nodes":[]},"repository":{"name":"lofo-importance","url":"https://github.com/aerdem4/lofo-importance","owner":{"login":"aerdem4","avatarUrl":"https://avatars3.githubusercontent.com/u/24624210?u=58887e9c09a3c0576a8ce61ba881132ebf4c137c&v=4","url":"https://github.com/aerdem4"}}},{"id":"MDU6SXNzdWU0ODI4MTcwNjE=","closed":false,"title":"Setup Readme file in proper format","createdAt":"2019-08-20T11:58:49Z","url":"https://github.com/NebutechOpenSource/MLGen/issues/1","number":1,"assignees":{"nodes":[]},"repository":{"name":"MLGen","url":"https://github.com/NebutechOpenSource/MLGen","owner":{"login":"NebutechOpenSource","avatarUrl":"https://avatars3.githubusercontent.com/u/53137955?u=2abe60da5dfbd4b442e415e6c553f58a21cf9547&v=4","url":"https://github.com/NebutechOpenSource"}}}],"open":8,"closed":10,"totalCount":18}
+{
+  "closed": 5,
+  "data": [
+    {
+      "id": "MDU6SXNzdWU4ODUwMjc1MTE=",
+      "closed": true,
+      "title": "Modificar Título de Alerta",
+      "createdAt": "2021-05-10T20:19:21Z",
+      "url": "https://github.com/move2/distrito-ui-kit/issues/24",
+      "number": 24,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/44532318?u=3e26856ddcb187f521f251a8c4827f94d7aba5a9&v=4",
+            "name": null,
+            "url": "https://github.com/gabrielmlemos"
+          }
+        ]
+      },
+      "repository": {
+        "name": "distrito-ui-kit",
+        "url": "https://github.com/move2/distrito-ui-kit",
+        "owner": {
+          "login": "move2",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9322169?u=3b05fc7fe174c52fbf1037e8e7a4bfa42cb16d32&v=4",
+          "url": "https://github.com/move2"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3MDg0MjI0NTI=",
+      "closed": true,
+      "title": "Erro ao buscar Places por localidade",
+      "createdAt": "2020-09-24T19:32:52Z",
+      "url": "https://github.com/smartbit-digital/futebol-maps-api/issues/33",
+      "number": 33,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "futebol-maps-api",
+        "url": "https://github.com/smartbit-digital/futebol-maps-api",
+        "owner": {
+          "login": "smartbit-digital",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/70112762?v=4",
+          "url": "https://github.com/smartbit-digital"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1NzQxNjcxNzM=",
+      "closed": true,
+      "title": "req.body empty in NestMiddleware #2",
+      "createdAt": "2020-03-02T18:37:58Z",
+      "url": "https://github.com/nestjs/nest/issues/4205",
+      "number": 4205,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "nest",
+        "url": "https://github.com/nestjs/nest",
+        "owner": {
+          "login": "nestjs",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/28507035?v=4",
+          "url": "https://github.com/nestjs"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1Mjc2OTk4Njk=",
+      "closed": false,
+      "title": "Escopo e tarefas",
+      "createdAt": "2019-11-24T13:43:51Z",
+      "url": "https://github.com/danilomartinelli/Video-Maker/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Video-Maker",
+        "url": "https://github.com/danilomartinelli/Video-Maker",
+        "owner": {
+          "login": "danilomartinelli",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/28323438?u=4dc213c350987b860f152ffbeac265847777401b&v=4",
+          "url": "https://github.com/danilomartinelli"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1MTI4MzkzMDI=",
+      "closed": true,
+      "title": "Tamanho do constructor Principal",
+      "createdAt": "2019-10-26T14:04:31Z",
+      "url": "https://github.com/ucsal/padroes/issues/15",
+      "number": 15,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "padroes",
+        "url": "https://github.com/ucsal/padroes",
+        "owner": {
+          "login": "ucsal",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/15689145?v=4",
+          "url": "https://github.com/ucsal"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1MTI4Mzg0Nzg=",
+      "closed": true,
+      "title": "Criar uma interface para as figuras",
+      "createdAt": "2019-10-26T13:57:15Z",
+      "url": "https://github.com/ucsal/padroes/issues/7",
+      "number": 7,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "padroes",
+        "url": "https://github.com/ucsal/padroes",
+        "owner": {
+          "login": "ucsal",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/15689145?v=4",
+          "url": "https://github.com/ucsal"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU1MTI4Mzg0MDE=",
+      "closed": false,
+      "title": "Criar figuras com dimensões diferentes",
+      "createdAt": "2019-10-26T13:56:28Z",
+      "url": "https://github.com/ucsal/padroes/issues/5",
+      "number": 5,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "padroes",
+        "url": "https://github.com/ucsal/padroes",
+        "owner": {
+          "login": "ucsal",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/15689145?v=4",
+          "url": "https://github.com/ucsal"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU0OTExNTQ1MDI=",
+      "closed": false,
+      "title": "Stream pods logs by label",
+      "createdAt": "2019-09-09T15:05:42Z",
+      "url": "https://github.com/astefanutti/kubebox/issues/64",
+      "number": 64,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "kubebox",
+        "url": "https://github.com/astefanutti/kubebox",
+        "owner": {
+          "login": "astefanutti",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/366207?u=96468bb095e85f25a85d5770d151d1378aeef4a3&v=4",
+          "url": "https://github.com/astefanutti"
+        }
+      }
+    }
+  ],
+  "open": 3,
+  "totalCount": 8
+}
