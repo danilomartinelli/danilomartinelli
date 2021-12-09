@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Danilo Matinelli's Portfolio",
   description:
-    "Senior Software Engineer no Distrito | Desenvolvedor Full Stack | Mobile | Devops | Javascript",
+    "Senior Software Engineer | Growth Engineer | Desenvolvedor Full Stack | Mobile | Devops | Javascript",
   og: {
     title: "Danilo Martinelli Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "DaniloMartinelli",
   nickname: "Dan",
   subTitle:
-    "Senior Software Engineer no Distrito | Desenvolvedor Full Stack | Mobile | Devops | Javascript",
+    "Senior Software Engineer | Growth Engineer | Desenvolvedor Full Stack | Mobile | Devops | Javascript",
   resumeLink:
     "https://drive.google.com/file/d/1mZbMFQbfPrGaWaOIBI1tXaZACNfaCaXU/view",
   portfolio_repository:
